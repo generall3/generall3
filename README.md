@@ -1,6 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=generall3&color=269077">
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm currently studying software engineering
+- 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
 - 🌱 I’m currently learning C,C++,Php,Js,Python 
 
 ### 🛠 &nbsp;Tech Stack
