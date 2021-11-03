@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center"></h2>
-<p align="center"></p>
 
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh
