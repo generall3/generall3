@@ -4,6 +4,9 @@
 
 <h2 align="center">Hi There</h2>
 
+```zsh
+-> ~/Portfolio git:(main) > ./start.sh
+```
 
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
