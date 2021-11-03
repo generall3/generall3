@@ -17,7 +17,7 @@
     <table align="left">
         <tr>
             <td align="center" width="100" height="1">
-                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="1px"/>
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="1000px"/>
                 <br /> C#
             </td>
             <td align="center" width="50" height="50">
