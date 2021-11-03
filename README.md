@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C,C++,Php,Js,Python 
 
 ### 🛠 &nbsp;Tech Stack
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Shell_Script-141a20?style=flat&logo=shell)&nbsp;
