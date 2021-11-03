@@ -1,7 +1,7 @@
 ## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=generall3&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
-- 🌱 I’m currently learning C,C++,Php,Js,Python 
+- 🌱 I’m currently learning Linux,C,C++,Php
 
 ### 🛠 &nbsp;Tech Stack
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
