@@ -2,8 +2,6 @@
   <img src="svg/webdevelopment.svg " width="480px"/>
 </p>
 
-<h2 align="center">Hi There</h2>
-
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh
 ```
