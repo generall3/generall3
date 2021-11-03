@@ -16,29 +16,29 @@
 <div align="center">
     <table align="left">
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="65px"/>
                 <br /> C#
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="icons/java.png" width="65px"/>
                 <br /> Java
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
         </tr>
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="icons/postgresql.png" width="65px"/>
                 <br /> Postgresql
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="icons/python.png" width="65px"/>
                 <br /> Python
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="50" height="50">
                 <img src="icons/sass.png" width="65px"/>
                 <br /> Sass
             </td>
