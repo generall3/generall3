@@ -16,7 +16,7 @@
 <div align="center">
     <table align="left">
         <tr>
-            <td align="center" width="20" height="200">
+            <td align="center" width="300" height="10">
                 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100px"/>
                 <br /> C#
             </td>
