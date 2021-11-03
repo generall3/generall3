@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)&nbsp;
 ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
