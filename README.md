@@ -12,6 +12,38 @@
 - 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
 - 🌱 I’m currently learning Linux,C,C++,Php
 
+
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="65px"/>
+                <br /> C#
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/java.png" width="65px"/>
+                <br /> Java
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/postgresql.png" width="65px"/>
+                <br /> Postgresql
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/sass.png" width="65px"/>
+                <br /> Sass
+            </td>
+        </tr>
+    </table>
 ### 🛠 &nbsp;Tech Stack
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
