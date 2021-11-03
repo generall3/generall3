@@ -1,4 +1,4 @@
-## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=generall3&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently studying software engineering
 - 🌱 I’m currently learning C,C++,Php,Js,Python 
