@@ -13,8 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)&nbsp;
-![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=generall3&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generall3&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/generall3/github-readme-stats)
