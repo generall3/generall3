@@ -1,4 +1,10 @@
-## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=generall3&color=269077">
+<p align="center">
+    <img src="svg/inspiration.svg" width="480px"/>
+</p>
+
+<h2 align="center">Hi There</h2>
+
+
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
 - 🌱 I’m currently learning Linux,C,C++,Php
