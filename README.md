@@ -10,7 +10,7 @@
 
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a student and an able guy, who is passionate about programming, crypto, tennis, basketball and cycling
-- 🌱 I’m currently learning JavaScript, Solidity, Linux.
+- 🌱 I’m currently learning JavaScript, Solidity, React, Linux.
 
 ### 🛠 &nbsp;Tech Stack
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
